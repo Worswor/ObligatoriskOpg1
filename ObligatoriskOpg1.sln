@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObligatoriskOpg1", "ObligatoriskOpg1\ObligatoriskOpg1.csproj", "{6C8ACB97-9501-4C44-8EA0-2D9D09950051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObligatoriskOpg1Tests", "ObligatoriskOpg1Tests\ObligatoriskOpg1Tests.csproj", "{CFEDB761-B3BC-44F9-8155-23E70CC07E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8ACB97-9501-4C44-8EA0-2D9D09950051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8ACB97-9501-4C44-8EA0-2D9D09950051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8ACB97-9501-4C44-8EA0-2D9D09950051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8ACB97-9501-4C44-8EA0-2D9D09950051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFEDB761-B3BC-44F9-8155-23E70CC07E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFEDB761-B3BC-44F9-8155-23E70CC07E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFEDB761-B3BC-44F9-8155-23E70CC07E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFEDB761-B3BC-44F9-8155-23E70CC07E26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A68A14AE-C5E3-41E7-BBA8-FAD12C992AB5}
+	EndGlobalSection
+EndGlobal
